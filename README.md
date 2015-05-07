@@ -1,4 +1,5 @@
-<h3>This version is too old,please visit https://github.com/SAM33/infoReceiver-guiversion</h3>
+<h3>This version is too old,please visit <br/>
+https://github.com/SAM33/infoReceiver-guiversion</h3>
 
 
 
